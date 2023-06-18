@@ -1,0 +1,20 @@
+{
+  "name": "@9ovindyadav/gov",
+  "version": "1.0.0",
+  "description": "test the text ",
+  "main": "index.js",
+  "scripts": {
+    "test": "gov"
+  },
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/9ovindyadav/gov-npm-package.git"
+  },
+  "keyword":["gov"],
+  "author": "govind",
+  "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/9ovindyadav/gov-npm-package/issues"
+  },
+  "homepage": "https://github.com/9ovindyadav/gov-npm-package#readme"
+}
